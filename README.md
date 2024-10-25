@@ -1,5 +1,7 @@
 # OhThatRemindsMe Website
 
+> Disclaimer: This site is not affiliated with OhThatRemindsMe in any way. I created it as a fan of the podcast and want to clarify that I have no official connection or employment with them.
+
 I'd like to acknowledge that my website is based on a modified version of the code found at <https://github.com/absoluteappsec/absoluteappsec.github.io>. (@absoluteappsec) I want to extend my gratitude to the original developer for creating the website and making it available.
 
 I've made significant modifications to the code to create something new and unique. Since the original source code doesn't include a license, I've chosen not to add one to my version either, in line with the original author's approach.
